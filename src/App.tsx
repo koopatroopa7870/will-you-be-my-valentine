@@ -16,18 +16,22 @@ export default function Page() {
       "Are you sure?",
       "What if I asked really nicely?",
       "Pretty please",
-      "With a chocolate rice cake on top",
-      "What about a matcha frostie",
+      "How about a gelato for my sugar cupcake?😘",
+      "What about golgappe?🥺",
       "PLEASE POOKIE",
       "But :*(",
       "I am going to die",
       "Yep im dead",
-      "ok ur talking to nathan's ghost",
+      "ok ur talking to my ghost",
       "please babe",
       ":((((",
       "PRETTY PLEASE",
-      "Estoy muerto",
-      "No :(",
+      "I wonder why you click No so many times😑 ",
+      "What about a trip to your favourite place :)",
+      "My baby, my honeybun, my shona mona, pleaseeeeeee !!!!!",
+      "Me Sad",
+      "This yes sign will keep getting bigger and bigger hehehehehehehe >:)",
+
     ];
 
     return phrases[Math.min(noCount, phrases.length - 1)];
